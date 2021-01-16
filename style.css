@@ -59,23 +59,46 @@ header {
   background-color: tomato;
   margin: 2.5rem 1.5rem;
 }
+.info-wraps {
+  margin-left: 1.5rem;
+}
 #square-one {
+  background-color: #d8acb2;
+  /* Blossom  */
 }
 #square-two {
+  background-color: #69608a;
+  /* Rum */
 }
 #square-three {
+  background-color: #fffe70;
+  /* Paris Daisy */
 }
 #square-four {
+  background-color: #33ff41;
+  /* Screaming Green */
 }
 #square-five {
+  background-color: #34b0cc;
+  /* Scooter */
 }
 #square-six {
+  background-color: #ff1f53;
+  /* Radical Red */
 }
 #square-seven {
+  background-color: #a041c3;
+  /* Amethyst */
 }
 #square-eight {
+  background-color: #262442;
+  /* Ebony Clay */
 }
 #square-nine {
+  background-color: #3c2a2e;
+  /* Woody Brown */
 }
 #square-ten {
+  background-color: #efcde5;
+  /* Vanilla Ice */
 }
