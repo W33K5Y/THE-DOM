@@ -1,0 +1,81 @@
+/*! Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 4.4rem;
+  color: white;
+  letter-spacing: 0.2rem;
+  font-weight: normal;
+  flex: 1 1 60rem;
+}
+h2 {
+  color: white;
+  font-weight: 400;
+}
+nav {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+header {
+  background-color: rgb(1, 28, 34);
+  padding: 5rem;
+  min-height: 10vh;
+}
+
+.main-h2 {
+  color: black;
+  font-size: 2.75rem;
+  margin-top: 10rem;
+  text-align: center;
+  font-weight: 400;
+}
+/*! Style the squares   */
+#rectangle-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 100%;
+  width: 90vw;
+  margin: 10rem auto;
+  padding: 5rem 5rem 0rem 5rem;
+}
+
+.square {
+  height: 25rem;
+  width: 25rem;
+  background-color: tomato;
+  margin: 2.5rem 1.5rem;
+}
+#square-one {
+}
+#square-two {
+}
+#square-three {
+}
+#square-four {
+}
+#square-five {
+}
+#square-six {
+}
+#square-seven {
+}
+#square-eight {
+}
+#square-nine {
+}
+#square-ten {
+}
